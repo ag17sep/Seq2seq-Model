@@ -18,9 +18,11 @@ scikit-learn — a tool for data mining and data analysis.
 One benefit of this task is that I didn't need to download any data — I can generate it on my own! We will use two operators (addition and subtraction) and work with positive integer numbers in some range. Here are examples of correct inputs and outputs:
 
 Input: '1+2'
+
 Output: '3'
 
 Input: '0-99'
+
 Output: '-99'
 
 
