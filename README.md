@@ -11,6 +11,7 @@ The resulting solution for this problem will be based on state-of-the-art approa
 For this task I used the following libraries:
 
 TensorFlow — an open-source software library for Machine Intelligence.
+
 scikit-learn — a tool for data mining and data analysis.
 
 ## Data
